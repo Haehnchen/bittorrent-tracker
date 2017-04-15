@@ -1,0 +1,3 @@
+espend_bit_torrent_tracker:
+    resource: "@espendBitTorrentTrackerBundle/Resources/config/routing.xml"
+    prefix:   /
